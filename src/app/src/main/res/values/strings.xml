@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chopra Wisdom</string>
+    <string name="action_settings">Settings</string>
+    <string name="strGreeting">The enigmatic wisdom of Deepak Chopra</string>
+    <string name="btnStrShowAnother">Seek Wisdom</string>
+    <string name="strFunFact">Courtesy of wisdomofchopra.com</string>
+    <string name="strBaseUrl">http://www.wisdomofchopra.com/iframe.php</string>
+</resources>
