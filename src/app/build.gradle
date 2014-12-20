@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "onetwentyonegigawatt.funfacts"
+        applicationId "onetwentyonegigawatt.choprawisdom"
         minSdkVersion 14
         targetSdkVersion 20
         versionCode 2
@@ -13,7 +13,7 @@ android {
     }
     buildTypes {
         release {
-            runProguard false
+            runProguard true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
