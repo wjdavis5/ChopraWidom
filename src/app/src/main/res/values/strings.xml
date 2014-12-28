@@ -7,4 +7,5 @@
     <string name="btnStrShowAnother">Seek Wisdom</string>
     <string name="strFunFact">Courtesy of wisdomofchopra.com</string>
     <string name="strBaseUrl">http://www.wisdomofchopra.com/iframe.php</string>
+    <string name="facebook_app_id">609022675910558</string>
 </resources>

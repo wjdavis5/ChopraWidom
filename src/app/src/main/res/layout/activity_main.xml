@@ -52,6 +52,17 @@
         android:layout_alignParentStart="true"
         android:textColorLink="#80ff2b38" />
 
+    <ImageButton
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/btnShareFbook"
+        android:src="@drawable/fbookshare"
+        android:contentDescription="Share on Facebook"
+        android:scaleType="fitCenter"
+        android:layout_above="@+id/btnShowFact"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
 
 
 </RelativeLayout>
